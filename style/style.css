@@ -1,0 +1,126 @@
+html{
+    box-sizing: border-box;
+    font-family: Arial, 'Times New Roman', Times, serif;
+}
+
+*, *::after, *::before{
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+}
+
+.header,
+.main{
+    border-bottom: 4px dashed rgba(0, 0, 0, 0.507);
+    margin-top: 60px;
+}
+
+.header p,
+.main p,
+.footer a{
+    font-size: 22px;
+}
+
+.header_section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 60px;
+}
+
+.header_section{
+    width: 90%;
+    margin: auto;
+}
+
+.header h1{
+    font-size: 56px;
+}
+
+.header img{
+    width: 100%;
+}
+
+.main h3{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.main_section{
+    width: 75%;
+    margin: auto;
+    padding: 20px 30px;
+}
+
+.main_section:nth-child(odd){
+    background-color: rgba(0, 0, 0, 0.342);
+}
+
+.main_section .contacts:nth-child(2),
+.main_section .target:nth-child(2),
+.main_section .skills:nth-child(2),
+.main_section .work p,
+.main_section .education:nth-child(2),
+.main_section .adit_education:nth-child(2),
+.main_section .language p{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.main_section .contacts li,
+.main_section .target li,
+.main_section .skills li,
+.main_section .education li,
+.adit_education li{
+    margin-top: 5px;
+}
+
+.main_section .contacts li a{
+    text-decoration: none;
+}
+
+.main_section .target span,
+.main_section .skills span{
+    background-color: rgba(0, 0, 0, 0.116);
+    padding: 3px;
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
+.main_section .target div{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.main_section .target h3{
+    margin-top: 20px;
+}
+
+.main_section .code div{
+    background-color: rgba(0, 0, 0, 0.116);
+    display: inline-block;
+    border-radius: 10px;
+    margin-left: 120px;
+}
+
+.main_section .code div p{
+    padding: 15px;
+}
+
+.main_section .work p:first-child{
+    margin-bottom: 20px;
+}
+
+.main_section .language p{
+    margin-bottom: 40px;
+}
+
+.footer{
+    text-align: center;
+    background-color: rgba(119, 136, 153, 0.459);
+    padding: 1%;
+}
+
+.footer a{
+    text-decoration: none;
+}
