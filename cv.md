@@ -13,7 +13,17 @@
 >>- Desire for professional growth
 >>- Motivation
 ### Skills:
-- Proficiency in web-page markup language  - `HTML`;
-- Knowledge of the language used to convert web-pages - `CSS`;
-- Beginning knowledge of a programming language - `JavaScript`;
-- Beginning knowledge of a version control tool - `Git` & `GitHub`;
+- Proficiency in web-page markup language  - `HTML`
+- Knowledge of the language used to convert web-pages - `CSS`
+- Beginning knowledge of a programming language - `JavaScript`
+- Beginning knowledge of a version control tool - `Git` & `GitHub`
+### Code examples:
+```js
+  let value = prompt('', 8);
+  let sum = 0;
+    for(let i = 1; i < value; i++){
+      sum += i;
+    };
+  console.log(sum);
+```
+
