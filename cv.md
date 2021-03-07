@@ -6,9 +6,14 @@
 - Email: serzantovandreyiq@gmail.com
 ---
 ### Target:
-> - To learn a profession `JS/FRONT-END -developer`.
+> - To learn a profession `JS/FRONT-END -developer`
 >> ### Personal qualities:
 >>- Responsibility
 >>- Quick learning ability
 >>- Desire for professional growth
 >>- Motivation
+### Skills:
+- Proficiency in web-page markup language  - `HTML`;
+- Knowledge of the language used to convert web-pages - `CSS`;
+- Beginning knowledge of a programming language - `JavaScript`;
+- Beginning knowledge of a version control tool - `Git` & `GitHub`;
