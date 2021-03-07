@@ -26,4 +26,8 @@
     };
   console.log(sum);
 ```
+### Work experience:
+Since 2012 I have been working as an assistant to a sole trader. The scope of my work includes the organization of procurement of goods in the Republic of Turkey - Istanbul, with the purpose of subsequent implementation. Seller-consultant.
+
+From 2008 to 2012. Worked as a cameraman at the Directorate of Information Broadcasting at the Belarusian TV channel. He was engaged in the shooting of television items of informational and artistic orientation. Covered events in more than 15 countries while on business trips.
 
