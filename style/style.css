@@ -15,6 +15,11 @@ html{
     margin-top: 60px;
 }
 
+.header,
+.main{
+    margin-bottom: 60px;
+}
+
 .header p,
 .main p,
 .footer a{
@@ -116,11 +121,27 @@ html{
 }
 
 .footer{
-    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     background-color: rgba(119, 136, 153, 0.459);
     padding: 1%;
+}
+
+.footer p::before{
+    content: "\f1f9";
+    font-family: FontAwesome;
+    margin-right: 5px;
 }
 
 .footer a{
     text-decoration: none;
 }
+
+.footer a img{
+    width: 100px;
+    cursor: pointer;
+}
+
+
+
